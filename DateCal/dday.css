@@ -1,0 +1,38 @@
+#container{
+	width: 400px;
+	height: 500px;
+	padding: 50px 20px 50px 20px;
+	background-color: #ffdfdf;
+}
+#top{
+	text-align: center;
+	/* 가운데 정렬 */
+}
+#startDay{
+	color: gray;
+}
+
+.days{
+	display: inline-block;
+	width: 90px;
+	font-size: 2em;
+	font-weight: bold;
+	padding-left: 10px;
+}
+.days2{
+	display: inline-block;
+	width: 150px;
+	padding-left: 80px;
+	text-align: center;
+}
+ul{
+	list-style: none;
+	padding-left: 0px;
+}
+li{
+	height: 40px;
+	margin: 10px;
+	padding: 20px;
+	background-color: #f0b4b4;
+	border-radius: 7px; 
+}
